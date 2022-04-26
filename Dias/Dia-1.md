@@ -63,7 +63,7 @@ Importante!! realizar um mapa mental das melhores maneiras para resolver um prob
     Exemplo:
 
 	<p align="center">
- 		<img src="figuras/fig_fluxograma.png?raw=true" alt="fluxograma" width="100%" height="70%" />
+ 		<img src="figuras/fig_fluxograma.png?raw=true" alt="fluxograma" width="60%" height="70%" />
 	</p>
 
     Exemplos de sites para criar fluxogramas:
@@ -122,7 +122,7 @@ Importante!! realizar um mapa mental das melhores maneiras para resolver um prob
   
     Exemplo:
 	<p align="center">
- 		<img src="figuras/fig_tomada_decisao.png?raw=true" alt="fluxograma tomada de decisão" width="1000%" height="70%" />
+ 		<img src="figuras/fig_tomada_decisao.png?raw=true" alt="fluxograma tomada de decisão" width="60%" height="70%" />
 	</p>
 
 
@@ -141,7 +141,7 @@ Dentro da lógica de programação é uma estrutura que permite executar mais de
 Exemplo:
 
 <p align="center">
- 		<img src="figuras/fig_estrutura_de_repeticao.png?raw=true" alt="fluxograma estrutura de repetição" width="100%" height="70%" />
+ 		<img src="figuras/fig_estrutura_de_repeticao.png?raw=true" alt="fluxograma estrutura de repetição" width="60%" height="70%" />
 </p>
 
 
