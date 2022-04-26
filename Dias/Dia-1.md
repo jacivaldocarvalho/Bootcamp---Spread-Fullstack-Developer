@@ -4,17 +4,19 @@
 ## Sumário
 *******
 
-[Entendendo o que é lógica](#entendendo-o-que-é-lógica)
-[O que são algoritmos e pseudocódigo](#o-que-são-algoritmos-e-pseudocódigo)
-[Fluxograma, variáveis e constantes](#fluxograma-váriaveis-e-constantes)
-[Tomadas de decisão e expressões](#tomadas-de-decisão-e-expressões)
-[Como utilizar concatenação](#como-utilizar-concatenação)
-[Estrutura de repetição](#estrutura-de-repetição)
-[O que são linguagens de programação](#o-que-são-linguagens-de-programação)
-[Portugol](#portugol)
-[Desvios condicionais e comentários no portugol](#desvios-condicionais-e-comentários-no-portugol)
-[Laços de repetição no portugol](#laços-de-repetição-no-portugol)
-[Matrizes e vetores](#matrizes-e-vetores)
+- [Introdução à lógica e à programação](#introdução-à-lógica-e-à-programação)
+	- [Sumário](#sumário)
+	- [Entendendo o que é lógica:](#entendendo-o-que-é-lógica)
+	- [O que são algoritmos e pseudocódigo:](#o-que-são-algoritmos-e-pseudocódigo)
+	- [Fluxograma, váriaveis e constantes](#fluxograma-váriaveis-e-constantes)
+	- [Tomadas de decisão e expressões](#tomadas-de-decisão-e-expressões)
+	- [Como utilizar concatenação](#como-utilizar-concatenação)
+	- [Estrutura de repetição](#estrutura-de-repetição)
+	- [O que são linguagens de programação](#o-que-são-linguagens-de-programação)
+	- [Portugol](#portugol)
+	- [Desvios condicionais e comentários no portugol](#desvios-condicionais-e-comentários-no-portugol)
+	- [Laços de repetição no portugol](#laços-de-repetição-no-portugol)
+	- [Matrizes e vetores](#matrizes-e-vetores)
 
 
 ## Entendendo o que é lógica:
