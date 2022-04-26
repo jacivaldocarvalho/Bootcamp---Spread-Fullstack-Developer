@@ -5,7 +5,10 @@
 </p>
 
 Repositório com notas sobre o meu progresso no bootcamp da Spread. Curso em Fullstack Developer.
-
+*******
 ## Progresso
- 
+*******
+### Módulo I
+ *******
 - [✔️] ♾️ 1 > [Introdução à lógica e a programação](Dias/Dia-1.md)
+- [  ] ♾️ 2 > [Introdução ao Git e ao Github](Dias/Dia-2.md)

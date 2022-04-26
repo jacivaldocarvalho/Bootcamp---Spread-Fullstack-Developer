@@ -60,7 +60,9 @@ Importante!! realizar um mapa mental das melhores maneiras para resolver um prob
 
     Exemplo:
 
-    ![exemplo fluxograma](\figuras/fig_fluxograma.png)
+	<p align="center">
+ 		<img src="figuras/fig_fluxograma.png?raw=true" alt="fluxograma" width="100%" height="70%" />
+	</p>
 
     Exemplos de sites para criar fluxogramas:
 
@@ -117,7 +119,10 @@ Importante!! realizar um mapa mental das melhores maneiras para resolver um prob
 - Tomadas de decisão: Quando escrevemos programas, geralmente ocorre a necessidade de decidir o que fazer dependendo de alguma condição encontrada durante a execução.
   
     Exemplo:
-    ![exemplo tomada de decisão](\figuras/fig_tomada_decisao.png)
+	<p align="center">
+ 		<img src="figuras/fig_tomada_decisao.png?raw=true" alt="fluxograma tomada de decisão" width="1000%" height="70%" />
+	</p>
+
 
     Neste exemplo, podemos observar a tomada de decisão quando o cliente informa se tem ou não cartão, em caso de haver um cartão para compra, há uma sentença verdadeira, caso não, é exibido uma mensagem "Infelizmente só realizamos vendas por cartão de crédito".
 
@@ -133,7 +138,12 @@ Dentro da lógica de programação é uma estrutura que permite executar mais de
 
 Exemplo:
 
-![estrutura_de_repetição](figuras/fig_estrutura_de_repeticao.png)
+<p align="center">
+ 		<img src="figuras/fig_estrutura_de_repeticao.png?raw=true" alt="fluxograma estrutura de repetição" width="100%" height="70%" />
+</p>
+
+
+
 
 Nesse exemplo, temos uma estrutura de repetição que simula um contador com intervalo de 1 (número) a 10 (limite), onde enquanto o número <= limite a  expressão é verdadeira, e é incrementado para o próximo valor através de número = número + 1.
 
