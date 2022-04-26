@@ -1,6 +1,8 @@
 # Bootcamp---Spread-Fullstack-Developer
 
-![bootcamp-spread](spread_fullstack.png)
+<p align="center">
+ <img src="spread_fullstack.png?raw=true" alt="spread_fullstack Logo" width="25%" height="25%" />
+</p>
 
 Repositório com notas sobre o meu progresso no bootcamp da Spread. Curso em Fullstack Developer.
 
