@@ -3,4 +3,4 @@ Repositório com notas sobre o meu progresso no bootcamp da Spread. Curso em Ful
 
 ## Progresso
  
-- [ ] ♾️ 1 > [Introdução à lógica e a programação](Dia -1.md)
+- [ ] ♾️ 1 > [Introdução à lógica e a programação](Dias/Dia -1.md)
