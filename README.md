@@ -17,4 +17,4 @@ Repositório com notas sobre o meu progresso no bootcamp da Spread. Curso em Ful
 *******
 ### Módulo II
 *******
-- [   ] ♾️ 1 > [HTML/CSS3](Dias/Dia-3.md)
+- [   ] ♾️ 1 > [Primeiros passos para desenvolvimento web](Dias/Dia-3.md)
