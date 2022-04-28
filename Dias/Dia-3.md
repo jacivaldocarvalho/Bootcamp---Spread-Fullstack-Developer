@@ -2,15 +2,15 @@
 # Primeiros passos para desenvolvimento web
 *******
 
-*******
-# Sumário
+## Sumário
 *******
 - [Primeiros passos para desenvolvimento web](#primeiros-passos-para-desenvolvimento-web)
-- [Sumário](#sumário)
-  - [O que é internet](#o-que-é-internet)
+  - [Sumário](#sumário)
+  - [O que é internet e história](#o-que-é-internet-e-história)
+  - [Como funciona a internet](#como-funciona-a-internet)
 
 *******
-## O que é internet
+## O que é internet e história
 *******
 A Internet é um sistema global de redes de computadores interligadas que utilizam um conjunto próprio de protocolos (Internet Protocol Suite ou TCP/IP) com o propósito de servir progressivamente usuários no mundo inteiro. É uma rede de várias outras redes, que consiste de milhões de empresas privadas, públicas, acadêmicas e de governo, com alcance local e global e que está ligada por uma ampla variedade de tecnologias de rede eletrônica, sem fio e ópticas.
 
@@ -39,6 +39,9 @@ Curiosidades:
 
 Podemos conhecer alguns termos usados na internet através desse documento: [Dicionário de termos-chave](/Dias/documento-extras/termos-chave.md).
 
+*******
+## Como funciona a internet
+*******
 
 
 [Symbolics]: <https://symbolics.com/>
