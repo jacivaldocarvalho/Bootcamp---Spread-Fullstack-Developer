@@ -12,7 +12,7 @@ Repositório com notas sobre o meu progresso no bootcamp da Spread. Curso em Ful
 ### Módulo I
 *******
 - [✔️] ♾️ 1 > [Introdução à lógica e a programação](Dias/Dia-1.md)
-- [✔️] ♾️ 2 > [Introdução ao Git e ao Github](Dias/Dia-2.md)
+- [c] ♾️ 2 > [Introdução ao Git e ao Github](Dias/Dia-2.md)
 
 *******
 ### Módulo II
