@@ -303,7 +303,7 @@ Para o primeiro projeto do curso, construir um site com Jquery utilizando a bibl
 
 ![](\projetos/1-construindo-a-primeira-aplicacao/primeiro-projeto.gif)
 
-
+[Código do projeto 1]
 ****
 ## Links para treinamento
 ****
@@ -315,3 +315,4 @@ Para o primeiro projeto do curso, construir um site com Jquery utilizando a bibl
 [Archive]: <https://archive.org/web>
 [w3schools]:<https://www.w3schools.com/>
 [Play code]:<https://playcode.io/html>
+[Código do projeto 1]: <https://github.com/jacivaldocarvalho/Bootcamp---Spread-Fullstack-Developer/tree/main/Dias/projetos/1-construindo-a-primeira-aplicacao>
