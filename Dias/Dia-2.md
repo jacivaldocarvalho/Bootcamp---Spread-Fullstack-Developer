@@ -9,8 +9,6 @@
   - [Navegação por linha de comando e instalação](#navegação-por-linha-de-comando-e-instalação)
   - [Entendendo como o Git funciona por baixo dos panos](#entendendo-como-o-git-funciona-por-baixo-dos-panos)
   - [Primeiros comandos Git](#primeiros-comandos-git)
-- [Adiciona um novo repositório](#adiciona-um-novo-repositório)
-- [verifica o novo repositório remoto](#verifica-o-novo-repositório-remoto)
 
 ## Introdução ao Git
 *******
@@ -77,29 +75,29 @@ No exemplo a seguir, criamos um arquivo.txt e geramos através do comando openss
 *******
 
 - Criando repositório.
-  ```
+  ```shell
   $ git init
   ```
 - Fornecendo informações do autor do repositório.
-    ```
+    ```shell
   $ git config --global user.email "nome@email.com"
   ```
-  ```
+  ```shell
   $ git config --global user.name "nome"
   ```
 - Criando um commit.
-  ```
+  ```shell
   $ git add .
   ```
-  ```
+  ```shell
   $ git commit -m "mensagem"
   ```
 - Exibe o estado do diretório de trabalho e a área de teste.
-  ```
+  ```shell
   $ git status
   ```
 - Adicionando um repositório remoto.
-  ```
+  ```shell
   $ git remote add origin https://github.com/user/repo.git
   # Adiciona um novo repositório
 
@@ -109,15 +107,15 @@ No exemplo a seguir, criamos um arquivo.txt e geramos através do comando openss
   > origin  https://github.com/user/repo.git (push)
    ```
 - Fazer push para um repositório remoto ou seja, enviar um repositório local para o remoto.
-  ```
+  ```shell
   $ git push origin main
    ```
 - Atualiza a ramificação de trabalho local atual e todas as ramificações de rastreamento remoto. 
-  ```
+  ```shell
    $ git pull origin main
    ```
 - Clonar repositório.
-  ```
+  ```shell
    $ git clone https://github.com/user/repo.git
    ```
 

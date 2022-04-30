@@ -88,7 +88,7 @@ Importante!! realizar um mapa mental das melhores maneiras para resolver um prob
     Operadores aritméticos:
 
     | Operação  | Simbolo |
-    | ------------- | - |
+    | :-------------: | :-: |
     | Soma          | + |
     | Subtração     | - |
     | Multiplicação | * |
@@ -110,7 +110,7 @@ Importante!! realizar um mapa mental das melhores maneiras para resolver um prob
 - Operadores relacionais: São compostas por outras expressões ou variáveis numéricas com operadores relacionais. As expressões relacionais retornam valores lógicos (verdadeiro/falso).
 
     | Simbolo | Nome do Operador |     Exemplo  |       Significado         |
-    | --------| ---------------- | ------------ | ------------------------- |
+    | :--------:| :----------------: | :------------: | :-------------------------: |
     |    >    |     Maior que    |     x > y    | x é maior que y?          | 
     |    >=   |   Maior ou igual |     x > =y   | x é maior ou igual a y?   | 
     |    <    |     Menor que    |     x < y    | x é menor que y?          |
@@ -175,7 +175,7 @@ Exemplo de IDE para aprender portugol é o [portugol studio] ou [portugol studio
 
 Exemplo de pseudolinguagem em portugol.
 
-```
+```c
 programa{
     funcao inicio(){
         escreva("Olá Mundo")
@@ -184,7 +184,7 @@ programa{
 ```
 Outro exemplo que calcula a média e o total de vendas de um funcionário do período de Janeiro a Abril:
 
-```
+```c
 programa {
 	funcao inicio() {
 		real venda_jan, venda_fev, venda_mar, venda_abr, total, media
@@ -217,7 +217,7 @@ Esxiste uma palavra reservada em portugol que é o **se**, a condição a ser te
 
 No exemplo a seguir temos desvios que verificam se um aluno foi aprovado ou reprovado. Também temos a inserção de // que denota um comentário em portugol.
 
-```
+```c
 // Desvio para verificar se o aluno é aprovado ou não.
 
 // Se maior que 7, aluno aprovado.
@@ -232,7 +232,7 @@ senao{
 ```
 Pode-se também realizar um conjunto de condições **se**, onde o programa solicita uma opção do usuário e retorna a escolha do mesmo. Nota que utilizamos o \n para quebrar uma linha durante a execução do programa.
 
-```
+```c
 programa {
 	funcao inicio() {
 		escreva(" Escolha um APP: 1-Netflix 2-AmazonPrime 3-HBOGO 4-Sair")
@@ -262,7 +262,7 @@ programa {
 ```
 Outra opção para o exemplo anterior é utilizar o **caso** que é uma forma mais elegante e recomendável nesses casos.
 
-```
+```c
 programa {
 	funcao inicio() {
 		escreva(" Escolha um APP: 1-Netflix 2-AmazonPrime 3-HBOGO 4-Sair")
@@ -301,7 +301,7 @@ Dentro da lógica de programação é uma estrutura que permite executar mais de
 
 O exemplo a seguir utiliza o laço de repetição **faca** do portugol enquanto a condição é atendida em **enquanto**.
 
-```
+```c
 programa {
 	funcao inicio() {
 		
@@ -334,7 +334,7 @@ Uma matriz é uma coleção de variáveis de mesmo tipo, acessíveis com um úni
 
 No primeiro exemplo, temos um código com um vetor unidimensional onde imprime na tela o vetor frutas emq ue cada índice é atribuido uma fruta.
 
-```
+```c
 \\ Exemplo 1
 programa {
 	funcao inicio() {
@@ -360,7 +360,7 @@ programa {
 ```
 No exemplo 2, criamos uma matriz cesta que é atribuido a cada linha uma fruta e a quantidade. O programa imprime o nome da fruta e sua quantidade na cesta.
 
-```
+```c
 \\ Exemplo 2
 programa {
 	funcao inicio() {
@@ -383,7 +383,7 @@ programa {
 ```
 E no exemplo 3, temos o cadastro de pessoas em uma matriz cadastro com nome, local e telefone. O programa imprime os nomes cadastrados junto com o local e o telefone.
 
-```
+```c
 \\ Exemplo 3
 programa {
 	funcao inicio() {
