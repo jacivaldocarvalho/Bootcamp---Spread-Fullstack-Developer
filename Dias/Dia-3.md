@@ -2,13 +2,13 @@
 # Primeiros passos para desenvolvimento web
 *******
 
-## Sumário
+## Conteúdo
 *******
 - [Primeiros passos para desenvolvimento web](#primeiros-passos-para-desenvolvimento-web)
-  - [Sumário](#sumário)
+  - [Conteúdo](#conteúdo)
   - [O que é internet e história](#o-que-é-internet-e-história)
-  - [Como funciona a internet](#como-funciona-a-internet)
-  - [TCP/IP, portas, roteadores, switches e modems](#tcpip-portas-roteadores-switches-e-modems)
+  - [Funcionamento da internet](#funcionamento-da-internet)
+  - [TCP/IP, portas, Roteador, Switche e Modem](#tcpip-portas-roteador-switche-e-modem)
     - [TCP/IP](#tcpip)
     - [Quais são as diferenças entre TCP e IP?](#quais-são-as-diferenças-entre-tcp-e-ip)
     - [Camadas do modelo TCP/IP](#camadas-do-modelo-tcpip)
@@ -29,7 +29,7 @@
     - [Dados móveis](#dados-móveis)
     - [WI-FI](#wi-fi)
     - [Bluetooth](#bluetooth)
-  - [Browser, sites, aplicativos e webserver](#browser-sites-aplicativos-e-webserver)
+  - [Browser, Sites, Aplicativos e Webserver](#browser-sites-aplicativos-e-webserver)
     - [Browser](#browser)
       - [Página estática X dinâmica](#página-estática-x-dinâmica)
     - [Site, aplicativo e e-commerce](#site-aplicativo-e-e-commerce)
@@ -83,7 +83,7 @@ Curiosidades:
 Podemos conhecer alguns termos usados na internet através desse documento: [Dicionário de termos-chave](/Dias/documento-extras/termos-chave.md).
 
 *******
-## Como funciona a internet
+## Funcionamento da internet
 *******
 Rede: Conjunto de dois ou mais dispositivos eletrônicos de computação (ou módulos processadores ou nós da rede) interligados por um sistema de comunicação digital (ou link de dados), guiados por um conjunto de regras (protocolo de rede) para compartilhar entre si informação, serviços e, recursos físicos e lógicos.
 
@@ -92,7 +92,7 @@ Backbone: Pode ser definido pelas principais rotas de dados entre grandes redes 
 Provedor de Acesso :  É uma organização que fornece serviços para acessar, usar ou participar da Internet . Os provedores de serviços de Internet podem ser organizados de várias formas, como comercial, de propriedade da comunidade , sem fins lucrativos ou de propriedade privada .
 
 *******
-## TCP/IP, portas, roteadores, switches e modems
+## TCP/IP, portas, Roteador, Switche e Modem
 *******
 
 ### TCP/IP
@@ -182,7 +182,7 @@ Wi-Fi é uma família de protocolos de rede sem fio , baseados na família de pa
 Bluetooth é um padrão de tecnologia sem fio de curto alcance que é usado para troca de dados entre dispositivos fixos e móveis em curtas distâncias usando ondas de rádio UHF nas bandas ISM , de 2,402 GHz a 2,48 GHz, e construção de redes de área pessoal (PANs). É usado principalmente como uma alternativa para conexões com fio, para trocar arquivos entre dispositivos portáteis próximos e conectar telefones celulares e tocadores de música com fones de ouvido sem fio . No modo mais utilizado, a potência de transmissão é limitada a 2,5 miliwatts , proporcionando um alcance muito curto de até 10 metros (33 pés).
 
 *******
-## Browser, sites, aplicativos e webserver
+## Browser, Sites, Aplicativos e Webserver
 *******
 
 ### Browser
@@ -301,7 +301,10 @@ Consulte vários termos comuns em TI através do [Dicionário de termos comuns](
 *******
 Para o primeiro projeto do curso, construir um site com Jquery utilizando a biblioteca accordion.
 
-![](projetos\1-construindo-a-primeira-aplicacao\primeiro-projeto.gif)
+  <p align="center">
+ 		<img src="projetos/1-construindo-a-primeira-aplicacao/primeiro-projeto.gif?raw=true" alt="Projeto 1" width="100%" height="70%" />
+  </p>
+
 
 [Código do projeto 1]
 ****

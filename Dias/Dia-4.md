@@ -2,10 +2,10 @@
 # Introdução a criação de websites com HTML5 e CSS3
 ****
 
-## Sumário
+## Conteúdo
 ****
 - [Introdução a criação de websites com HTML5 e CSS3](#introdução-a-criação-de-websites-com-html5-e-css3)
-  - [Sumário](#sumário)
+  - [Conteúdo](#conteúdo)
   - [Elemento e Estrutura básica](#elemento-e-estrutura-básica)
     - [HTML](#html)
     - [HEAD](#head)
@@ -21,7 +21,10 @@
   - [Como inserir imagens](#como-inserir-imagens)
   - [Como organizar listas](#como-organizar-listas)
 
+****
 ## Elemento e Estrutura básica
+****
+
 Em 1991 Tim Berners-Lee criou essa linguagem de marcação para melhorar a comunicação entre ele e seus colegas de trabalho no CERN, desde então já surgiram 5 versões e o HTML se tornou a base da web.
 
 Com o HTML definimos o significado e a estrutura do conteúdo da web e, além de texto, nossas páginas precisam de imagens, vídeos e vários outros formatos e para isso temos os elementos HTML.
@@ -30,7 +33,7 @@ Um elemento HTML é formado pela tag de abertura e seus atributos, o conteúdo e
 
 Um Elemento HTML:
   <p align="center">
- 		<img src="figuras/fig_elemento_html.png?raw=true" alt="elemento html" width="40%" height="50%" />
+ 		<img src="figuras/fig_elemento_html.png?raw=true" alt="elemento html" width="60%" height="500%" />
   </p>
 
 Com esses elementos podemos agrupar tipos de conteúdo, alterar tamanho e forma de fontes e adicionar diferentes mídias ao nossa página na web.
@@ -66,8 +69,9 @@ E dentro da tag body colocamos todo o conteúdo visível ao usuário: textos, im
     </body>
 </html>
 ```
-
+****
 ## Entendendo o que é semântica
+****
 
 Durante muitos anos o elemento padrão no HTML era a div, construíamos nosso conteúdo todo baseado nela, e assim nascia a sopa de divs.
 
@@ -132,8 +136,9 @@ Eles não foram criados na versão 5 do HTML e nem são específicos para semân
     </body>
 </html>
 ```
-
+****
 ## Usando textos e links HTML
+****
 A criação do HTML foi motivada pela necessidade de compartilhar textos e documentos, e mesmo depois de quase 30 anos, com toda a evolução da web, isso ainda representa uma boa parte do conteúdo da web.
 
 Já falamos anteriormente sobre os elementos h1-h6 e, eles são essenciais para nos indicar visualmente a importância e localização de seções de texto na página, mas para textos maiores e mais densos usamos o elemento p.
@@ -176,8 +181,10 @@ O target neste momento vai servir para nos ajudar a abrir nossos links em outra 
     </body>
 
 ```
-
+****
 ## Como inserir imagens
+****
+
 A web também é feita de imagens e para representá-las temos o elemento < img>, ele é um daqueles elementos sem tag de fechamento. O elemento img é bem simples, contendo apenas 2 atributos próprios, o src e o alt. O src é obrigatório e guarda o caminho para a imagem que você quer mostrar na página. O alt não é obrigatório mas é altamente recomendado por melhorar a acessibilidade, ele mostra a descrição da imagem caso ela não carregue e leitores de tela usam esse atributo para descrever a imagem para o usuário saber o que ela significa.
 
 ```html
@@ -211,7 +218,10 @@ A web também é feita de imagens e para representá-las temos o elemento < img>
 
 Dica para remover dados desnecessários de uma imagem use o site [Tiny Png].
 
+****
 ## Como organizar listas
+****
+
 Os últimos elementos que veremos neste módulo são os relacionados a listas: < ul>, < ol> e < li>. Listas servem para agrupar uma coleção de itens, como uma lista de ingredientes ou, como será no nosso caso, uma lista com contatos. O elemento ul cria uma lista não ordenada, onde a ordem dos elementos não é importante, e é representada com pontos, círculos ou quadrados. O < ol> serve para criar lista ordenadas, nessas a ordem importa, portanto elas são representadas com números, algarismos romanos ou letras. E o elemento li é um item dentro de uma dessas listas. Um < li> pode conter vários tipos de conteúdos, como parágrafos, imagens e até outras listas.
 
 ```html

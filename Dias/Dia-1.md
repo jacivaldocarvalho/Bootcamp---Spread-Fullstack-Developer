@@ -1,11 +1,11 @@
 # Introdução à lógica e à programação
 *******
 
-## Sumário
+## Conteúdo
 *******
 
 - [Introdução à lógica e à programação](#introdução-à-lógica-e-à-programação)
-	- [Sumário](#sumário)
+	- [Conteúdo](#conteúdo)
 	- [Entendendo o que é lógica:](#entendendo-o-que-é-lógica)
 	- [O que são algoritmos e pseudocódigo:](#o-que-são-algoritmos-e-pseudocódigo)
 	- [Fluxograma, váriaveis e constantes](#fluxograma-váriaveis-e-constantes)
@@ -18,9 +18,9 @@
 	- [Laços de repetição no portugol](#laços-de-repetição-no-portugol)
 	- [Matrizes e vetores](#matrizes-e-vetores)
 
-
+****
 ## Entendendo o que é lógica:
-*******
+****
 Programar é resolver problemas através de código. Entender o problema antes de programar.
 
 - Lógica: Coerência de racicocínio de ideias. Sequência coerente, regular e necessária de acontecimentos de coisas.
@@ -63,7 +63,7 @@ Importante!! realizar um mapa mental das melhores maneiras para resolver um prob
     Exemplo:
 
 	<p align="center">
- 		<img src="figuras/fig_fluxograma.png?raw=true" alt="fluxograma" width="60%" height="70%" />
+ 		<img src="figuras/fig_fluxograma.png?raw=true" alt="fluxograma" width="50%" height="50%" />
 	</p>
 
     Exemplos de sites para criar fluxogramas:
@@ -85,7 +85,7 @@ Importante!! realizar um mapa mental das melhores maneiras para resolver um prob
 *******
 - Expressões aritméticas: São expressões que utilizam operadores aritméticos e funções aritméticas envolvendo constantes e variáveis.
 
-    Operadores aritméticos:
+- Operadores aritméticos:
 
     | Operação  | Simbolo |
     | :-------------: | :-: |
@@ -100,7 +100,7 @@ Importante!! realizar um mapa mental das melhores maneiras para resolver um prob
 
     Exemplo:
 
-    ```
+    ```c
     nome = "Jacivaldo Carvalho"
     media = (nota_1 + nota_2)/2
 
@@ -122,7 +122,7 @@ Importante!! realizar um mapa mental das melhores maneiras para resolver um prob
   
     Exemplo:
 	<p align="center">
- 		<img src="figuras/fig_tomada_decisao.png?raw=true" alt="fluxograma tomada de decisão" width="60%" height="70%" />
+ 		<img src="figuras/fig_tomada_decisao.png?raw=true" alt="fluxograma tomada de decisão" width="50%" height="50%" />
 	</p>
 
 
@@ -141,11 +141,8 @@ Dentro da lógica de programação é uma estrutura que permite executar mais de
 Exemplo:
 
 <p align="center">
- 		<img src="figuras/fig_estrutura_de_repeticao.png?raw=true" alt="fluxograma estrutura de repetição" width="60%" height="70%" />
+ 		<img src="figuras/fig_estrutura_de_repeticao.png?raw=true" alt="fluxograma estrutura de repetição" width="50%" height="50%" />
 </p>
-
-
-
 
 Nesse exemplo, temos uma estrutura de repetição que simula um contador com intervalo de 1 (número) a 10 (limite), onde enquanto o número <= limite a  expressão é verdadeira, e é incrementado para o próximo valor através de número = número + 1.
 
@@ -159,13 +156,14 @@ A função das linguagens de programação é servir de um meio de comunicação
 
 Tipos de linguagens:
 
-  - Alto nível: Essas são aquelas cuja sintaxe se aproxima mais da nossa linguagem e se distanciam mais da linguagem de máquina. Exemplo: C, Java, Python, dentre outros.
+  - **Alto nível**: Essas são aquelas cuja sintaxe se aproxima mais da nossa linguagem e se distanciam mais da linguagem de máquina. Exemplo: C, Java, Python, dentre outros.
   
-  - Baixo nível: É aquela que se aproxima mais da linguagem de máquina. Essas são as que você precisa ter o conhecimento direto da arquitetura do computador para fazer alguma coisa. Exemplo: Assembly.
+  - **Baixo nível**: É aquela que se aproxima mais da linguagem de máquina. Essas são as que você precisa ter o conhecimento direto da arquitetura do computador para fazer alguma coisa. Exemplo: Assembly.
 
-- Compiladas: É uma linguagem de programação em que o código fonte é executado diretamente pelo sistema operacional ou pelo processador, após ser traduzido por meio de um processo chamado compilação. Exemplos: C, C#, Delphi, dentre outros.
+- **Compiladas**: É uma linguagem de programação em que o código fonte é executado diretamente pelo sistema operacional ou pelo processador, após ser traduzido por meio de um processo chamado compilação. Exemplos: C, C#, Delphi, dentre outros.
    
-- Interpretadas: É uma linguagem de programação em que o código fonte é executado por um programa de computador chamado interpretador que em seguida é executado pelo sistema operacional ou processador. Exemplos: Java Script, PHP, dentre outros.
+- **Interpretadas**: É uma linguagem de programação em que o código fonte é executado por um programa de computador chamado interpretador que em seguida é executado pelo sistema operacional ou processador. Exemplos: Java Script, PHP, dentre outros.
+
 *******
 ## Portugol
 *******
