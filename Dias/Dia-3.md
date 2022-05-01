@@ -302,7 +302,7 @@ Consulte vários termos comuns em TI através do [Dicionário de termos comuns](
 Para o primeiro projeto do curso, construir um site com Jquery utilizando a biblioteca accordion.
 
   <p align="center">
- 		<img src="projetos/1-construindo-a-primeira-aplicacao/primeiro-projeto.gif?raw=true" alt="Projeto 1" width="100%" height="70%" />
+ 		<img src="projetos/1-construindo-a-primeira-aplicacao/primeiro-projeto.gif?raw=true" alt="Projeto 1" width="80%" height="70%" />
   </p>
 
 
