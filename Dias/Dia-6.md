@@ -6,3 +6,7 @@ Projeto com o objetivo de recriar a página inicial do instagram.
   <p align="center">
  		<img src="projetos/5-recriando-pagina-instagram/recriando-instagram.gif?raw=true" alt="Projeto 1" width="80%" height="70%" />
   </p>
+
+  [código]
+
+  [Código]:<https://github.com/jacivaldocarvalho/Bootcamp---Spread-Fullstack-Developer/tree/main/Dias/projetos/5-recriando-pagina-instagram>
