@@ -42,7 +42,7 @@ Um elemento HTML é formado pela tag de abertura e seus atributos, o conteúdo e
 
 Um Elemento HTML:
   <p align="center">
- 		<img src="figuras/fig_elemento_html.png?raw=true" alt="elemento html" width="60%" height="500%" />
+ 		<img src="figuras/fig_elemento_html.png?raw=true" alt="elemento html" width="60%" height="50%" />
   </p>
 
 Com esses elementos podemos agrupar tipos de conteúdo, alterar tamanho e forma de fontes e adicionar diferentes mídias ao nossa página na web.
@@ -355,5 +355,7 @@ Já sabemos que podemos mudar cor e tamanho de algumas fontes, e agora vamos nos
 - **font-family**: Com o font-family podemos alterar a fonte dos nossos textos, como uma fonte da internet ou uma que esteja instalada no nosso computador, mas vamos nos ater às fontes seguras, chamadas de web safe fonts. Essas fontes são chamadas assim pois são encontradas em quases todos os sistemas e podem ser usadas sem preocupação.]
 - **font-size**: O font-size nos ajuda a mudar o tamanho do texto, existem algumas unidades de medida para ele mas por enquanto os pixels são suficientes para nós.
 - **font-style**: Usamos o font-style para tornar um texto itálico, na maioria das vezes você usará apenas o valor italic para ele, mas se precisar tirar o itálico de um texto você pode usar o valor normal.
+
+
 
 [Tiny Png]:<https://tinypng.com/>

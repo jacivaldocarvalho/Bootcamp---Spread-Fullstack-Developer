@@ -20,7 +20,9 @@ Repositório com notas sobre o meu progresso no bootcamp da Spread. Curso em Ful
 ### Módulo II
 *******
 - 📚 [✔️] ♾️ 1 > [Primeiros passos para desenvolvimento web](Dias/Dia-3.md)
-- 📚 [👨‍💻] ♾️ 2 > [Introdução a criação de websites com HTML5 e CSS3](Dias/Dia-4.md)
+- 📚 [✔️] ♾️ 2 > [Introdução a criação de websites com HTML5 e CSS3](Dias/Dia-4.md)
+- 📚 [✔️] ♾️ 3 > [Posicionando elementos com Flexbox em CSS](Dias/Dia-5.md)
+- 📚 [💪] ♾️ 4 > [Recriando a página inicial do Instagram](Dias/Dia-6.md)
 
 ****
 ### Projetos
