@@ -27,7 +27,8 @@ Repositório com notas sobre o meu progresso no bootcamp da Spread. Curso em Ful
 *******
 ### Módulo III - JavaScript
 *******
-- 📚 [💪] ♾️ 5 > [Introdução ao JavaScript](Dias/Dia-7.md)
+- 📚 [✔️] ♾️ 5 > [Introdução ao JavaScript](Dias/Dia-7.md)
+- 📚 [💪] ♾️ 6 > [Sintaxe e Operadores](Dias/Dia-8.md)
 
 ****
 ### Projetos
