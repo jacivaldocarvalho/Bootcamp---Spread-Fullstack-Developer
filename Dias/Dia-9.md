@@ -1,0 +1,3 @@
+# Variáveis e tipos
+
+## Conteúdo
