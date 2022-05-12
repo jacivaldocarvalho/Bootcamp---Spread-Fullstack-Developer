@@ -27,10 +27,11 @@ Repositório com notas sobre o meu progresso no bootcamp da Spread. Curso em Ful
 *******
 ### Módulo III - JavaScript
 *******
-- 📚 [✔️] ♾️ 5 > [Introdução ao JavaScript](Dias/Dia-7.md)
-- 📚 [✔️] ♾️ 6 > [Sintaxe e Operadores](Dias/Dia-8.md)
-- 📚 [✔️] ♾️ 7 > [variáveis e tipos](Dias/Dia-9.md)
-- 📚 [💪] ♾️ 8 > [Funções](Dias/Dia-10.md)
+- 📚 [✔️] ♾️ 1 > [Introdução ao JavaScript](Dias/Dia-7.md)
+- 📚 [✔️] ♾️ 2 > [Sintaxe e Operadores](Dias/Dia-8.md)
+- 📚 [✔️] ♾️ 3 > [variáveis e tipos](Dias/Dia-9.md)
+- 📚 [✔️] ♾️ 4 > [Funções](Dias/Dia-10.md)
+- 📚 [💪] ♾️ 5 > [Coleções](Dias/Dia-11.md)
 
 ****
 ### Projetos
