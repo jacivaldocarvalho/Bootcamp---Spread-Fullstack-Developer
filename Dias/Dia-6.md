@@ -1,6 +1,5 @@
-****
 # Recriando a página inicial do Instagram
-****
+
 Projeto com o objetivo de recriar a página inicial do instagram.
 
   <p align="center">

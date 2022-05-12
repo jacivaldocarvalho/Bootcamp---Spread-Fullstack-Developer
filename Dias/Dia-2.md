@@ -1,8 +1,6 @@
 # Introdução ao Git e ao Github
-*******
-
 ## Conteúdo
-*******
+
 - [Introdução ao Git e ao Github](#introdução-ao-git-e-ao-github)
   - [Conteúdo](#conteúdo)
   - [Introdução ao Git](#introdução-ao-git)
@@ -10,9 +8,8 @@
   - [Entendendo o funcionamento do Git](#entendendo-o-funcionamento-do-git)
   - [Primeiros comandos Git](#primeiros-comandos-git)
 
-****
 ## Introdução ao Git
-*******
+
 Git é um software para rastrear alterações em qualquer conjunto de arquivos, geralmente usado para coordenar o trabalho entre programadores que desenvolvem código-fonte colaborativamente durante o desenvolvimento de software. Seus objetivos incluem velocidade, integridade de dados e suporte para fluxos de trabalho distribuídos e não lineares.
 
 
@@ -22,9 +19,9 @@ Beneficios junto com o GitHub:
     - Trabalho em equipe;
     - Melhoria do seu código;
     - Reconhecimento
-*******
+
 ## Navegação por linha de comando e instalação
-*******
+
 - Comandos básicos para um bom desempenho no terminal:
     |     Linux     |      Windows      |             Ação             |
     |:-------------:|:-----------------:|:----------------------------:|
@@ -38,9 +35,9 @@ Beneficios junto com o GitHub:
     
 - Instalando o Git
    Link para instalação em sistemas operacionais Linux, Windows e Mac : [Instalando o Git]
-*******
+
 ## Entendendo o funcionamento do Git
-*******
+
 - SHA1: A sigla SHA significa Algoritmo de Hash seguro (Secure Hash Algorithm), é um conjunto de funções hash criptográficas projetadas pela NASA (Agência de segurança Nacional dos EUA). A encriptação gera conjunto de characteres identificadir de 40 dígitos.
 No exemplo a seguir, criamos um arquivo.txt e geramos através do comando openssl sha1.
     ```shell
@@ -72,9 +69,7 @@ No exemplo a seguir, criamos um arquivo.txt e geramos através do comando openss
   - Token: Tokens de acesso pessoal (PATs) são uma alternativa ao uso de senhas para autenticação no GitHub ao usar a API do GitHub ou a linha de comando. Para configurar, podemos seguir os passos do link a seguir:
   [Configurando uma conexão via token com o Github]
 
-*******
 ## Primeiros comandos Git
-*******
 
 - Criando repositório.
   ```shell

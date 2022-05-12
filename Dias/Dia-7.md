@@ -1,6 +1,4 @@
-****
 # Introdução ao JavaScript
-****
 
 ## Conteúdo
 - [Introdução ao JavaScript](#introdução-ao-javascript)

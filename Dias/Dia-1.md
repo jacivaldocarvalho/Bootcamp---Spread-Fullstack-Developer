@@ -1,8 +1,5 @@
 # Introdução à lógica e à programação
-*******
-
 ## Conteúdo
-*******
 
 - [Introdução à lógica e à programação](#introdução-à-lógica-e-à-programação)
 	- [Conteúdo](#conteúdo)
@@ -18,9 +15,8 @@
 	- [Laços de repetição no portugol](#laços-de-repetição-no-portugol)
 	- [Matrizes e vetores](#matrizes-e-vetores)
 
-****
 ## Entendendo o que é lógica:
-****
+
 Programar é resolver problemas através de código. Entender o problema antes de programar.
 
 - Lógica: Coerência de racicocínio de ideias. Sequência coerente, regular e necessária de acontecimentos de coisas.
@@ -33,9 +29,8 @@ Programar é resolver problemas através de código. Entender o problema antes d
 
 Importante!! realizar um mapa mental das melhores maneiras para resolver um problema.
 
-*******
 ## O que são algoritmos e pseudocódigo:
-*******
+
 - Algoritmo: É uma sequência de passos que resolve um problema.
 
     Exemplo:
@@ -55,9 +50,8 @@ Importante!! realizar um mapa mental das melhores maneiras para resolver um prob
 
 - Pseudocódigo: É uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples (nativa, ou seja, em português a quem o escreve, de forma a ser entendida por qualquer pessoa).
 
-*******
 ## Fluxograma, váriaveis e constantes
-*******
+
 - Fluxograma: É uma ferramenta utilizada para representar graficamente o algoritmo, ou seja, a sequência lógica e coerente do fluxo de dados.
 
     Exemplo:
@@ -128,14 +122,12 @@ Importante!! realizar um mapa mental das melhores maneiras para resolver um prob
 
     Neste exemplo, podemos observar a tomada de decisão quando o cliente informa se tem ou não cartão, em caso de haver um cartão para compra, há uma sentença verdadeira, caso não, é exibido uma mensagem "Infelizmente só realizamos vendas por cartão de crédito".
 
-*******
 ## Como utilizar concatenação
-*******
+
 Concatenação é um termo usado em computação para designar a operação de unir o conteúdo de duas strings, onde string é uma sequência de caracteres.
 
-*******
 ## Estrutura de repetição
-*******
+
 Dentro da lógica de programação é uma estrutura que permite executar mais de uma vez o mesmo comando ou conjunto de comandos, de acordo com uma condição ou com um contador.
 
 Exemplo:
@@ -146,9 +138,7 @@ Exemplo:
 
 Nesse exemplo, temos uma estrutura de repetição que simula um contador com intervalo de 1 (número) a 10 (limite), onde enquanto o número <= limite a  expressão é verdadeira, e é incrementado para o próximo valor através de número = número + 1.
 
-*******
 ## O que são linguagens de programação
-*******
 
 É uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gerar programas (software). Um software pode ser desenvolvido para rodar em um computador, dispositivo móvel ou em qualquer equipamento que permite sua execução.
 
@@ -208,9 +198,9 @@ programa {
 	}
 }
 ```
-*******
+
 ## Desvios condicionais e comentários no portugol
-*******
+
 Esxiste uma palavra reservada em portugol que é o **se**, a condição a ser testada entre parenteses e as instruções que devem ser executadas entre chaves caso o desvio seja **verdadeiro**. Agora se a condição for **falsa** um outro conjunto de comandos deve ser executado, nesse caso, o **se-nao**.
 
 No exemplo a seguir temos desvios que verificam se um aluno foi aprovado ou reprovado. Também temos a inserção de // que denota um comentário em portugol.
@@ -292,9 +282,9 @@ programa {
 	}
 }
 ```
-*******
+
 ## Laços de repetição no portugol
-*******
+
 Dentro da lógica de programação é uma estrutura que permite executar mais de uma vez o mesmo comando ou conjunto de comandos, de acordo com uma condição ou com um contador.
 
 O exemplo a seguir utiliza o laço de repetição **faca** do portugol enquanto a condição é atendida em **enquanto**.
@@ -325,9 +315,9 @@ programa {
 	}
 }
 ```
-*******
+
 ## Matrizes e vetores
-*******
+
 Uma matriz é uma coleção de variáveis de mesmo tipo, acessíveis com um único nome e armazenados contiguamente na memória. A individualização de cada variável de um vetor é feita através de uso de índices. Os vetores são matrizes de uma só dimensão.
 
 No primeiro exemplo, temos um código com um vetor unidimensional onde imprime na tela o vetor frutas emq ue cada índice é atribuido uma fruta.

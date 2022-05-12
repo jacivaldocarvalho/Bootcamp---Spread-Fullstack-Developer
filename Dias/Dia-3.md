@@ -1,9 +1,7 @@
-*******
 # Primeiros passos para desenvolvimento web
-*******
 
 ## Conteúdo
-*******
+
 - [Primeiros passos para desenvolvimento web](#primeiros-passos-para-desenvolvimento-web)
   - [Conteúdo](#conteúdo)
   - [O que é internet e história](#o-que-é-internet-e-história)
@@ -52,9 +50,8 @@
   - [Projeto Prático](#projeto-prático)
   - [Links para treinamento](#links-para-treinamento)
 
-*******
 ## O que é internet e história
-*******
+
 A Internet é um sistema global de redes de computadores interligadas que utilizam um conjunto próprio de protocolos (Internet Protocol Suite ou TCP/IP) com o propósito de servir progressivamente usuários no mundo inteiro. É uma rede de várias outras redes, que consiste de milhões de empresas privadas, públicas, acadêmicas e de governo, com alcance local e global e que está ligada por uma ampla variedade de tecnologias de rede eletrônica, sem fio e ópticas.
 
 - História:
@@ -82,18 +79,16 @@ Curiosidades:
 
 Podemos conhecer alguns termos usados na internet através desse documento: [Dicionário de termos-chave](/Dias/documento-extras/termos-chave.md).
 
-*******
 ## Funcionamento da internet
-*******
+
 Rede: Conjunto de dois ou mais dispositivos eletrônicos de computação (ou módulos processadores ou nós da rede) interligados por um sistema de comunicação digital (ou link de dados), guiados por um conjunto de regras (protocolo de rede) para compartilhar entre si informação, serviços e, recursos físicos e lógicos.
 
 Backbone: Pode ser definido pelas principais rotas de dados entre grandes redes de computadores estrategicamente interconectadas e roteadores centrais da Internet .
 
 Provedor de Acesso :  É uma organização que fornece serviços para acessar, usar ou participar da Internet . Os provedores de serviços de Internet podem ser organizados de várias formas, como comercial, de propriedade da comunidade , sem fins lucrativos ou de propriedade privada .
 
-*******
+
 ## TCP/IP, portas, Roteador, Switche e Modem
-*******
 
 ### TCP/IP
 
@@ -165,9 +160,9 @@ Um switch de rede (também chamado de hub de comutação, hub de ponte e, pelo I
 
 Um switch de rede é uma ponte de rede multiportas que usa endereços MAC para encaminhar dados na camada de enlace de dados (camada 2) do modelo OSI . Alguns switches também podem encaminhar dados na camada de rede (camada 3) incorporando adicionalmente a funcionalidade de roteamento . Esses comutadores são comumente conhecidos como comutadores de camada 3 ou comutadores multicamadas.
 
-*******
+
 ## Celular, Internet e outros dispositivos
-*******
+
 ### Dados móveis
 - 1G (analógico): 10Kbps
 - 2G (digital) ( Global System for Mobile Commubication - GSM): 97 Kbps
@@ -181,9 +176,8 @@ Wi-Fi é uma família de protocolos de rede sem fio , baseados na família de pa
 ### Bluetooth
 Bluetooth é um padrão de tecnologia sem fio de curto alcance que é usado para troca de dados entre dispositivos fixos e móveis em curtas distâncias usando ondas de rádio UHF nas bandas ISM , de 2,402 GHz a 2,48 GHz, e construção de redes de área pessoal (PANs). É usado principalmente como uma alternativa para conexões com fio, para trocar arquivos entre dispositivos portáteis próximos e conectar telefones celulares e tocadores de música com fones de ouvido sem fio . No modo mais utilizado, a potência de transmissão é limitada a 2,5 miliwatts , proporcionando um alcance muito curto de até 10 metros (33 pés).
 
-*******
+
 ## Browser, Sites, Aplicativos e Webserver
-*******
 
 ### Browser
 Para ver um site, é preciso um programa que interprete as linguagens de programação (LP) e as tranforme em algo compreensível por um humano.
@@ -242,9 +236,7 @@ Um site, ou aplicativo, precisa estar hospedado em um servidor para pode ser ace
 #### Web-service
 Interface disponível para fazer requisições e consultas em banco de dados inacessíveis (correios, governos, dentre outros).
 
-*******
 ## O que são Stacks
-*******
 
 ### Stacks
 
@@ -277,9 +269,8 @@ Acima de tudo, um dos principais objetivos de um stack de tecnologia é melhorar
 #### Fullstack
 Profissional que sabe trabalhar em todas as camadas das tecnologias de desenvolvimento/execução de um app/software.
 
-*******
 ## LPs e termos
-*******
+
 ### Principais linguagens
 - HTML
 - CSS
@@ -296,9 +287,8 @@ Profissional que sabe trabalhar em todas as camadas das tecnologias de desenvolv
 ### termos comuns
 Consulte vários termos comuns em TI através do [Dicionário de termos comuns](/Dias/documento-extras/termos-comuns.md).
 
-*******
 ## Projeto Prático
-*******
+
 Para o primeiro projeto do curso, construir um site com Jquery utilizando a biblioteca accordion.
 
   <p align="center">
@@ -307,9 +297,9 @@ Para o primeiro projeto do curso, construir um site com Jquery utilizando a bibl
 
 
 [Código do projeto 1]
-****
+
 ## Links para treinamento
-****
+
 - [w3schools]
 - [Play code]
 

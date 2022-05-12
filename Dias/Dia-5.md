@@ -1,9 +1,7 @@
-****
 # Posicionando elementos com Flexbox em CSS
-****
 
 ## Conteúdo
-****
+
 - [Posicionando elementos com Flexbox em CSS](#posicionando-elementos-com-flexbox-em-css)
 	- [Conteúdo](#conteúdo)
 	- [Introdução ao Flex Box](#introdução-ao-flex-box)
@@ -25,9 +23,8 @@
 	- [Order](#order)
 	- [Align-self](#align-self)
 
-****
+
 ## Introdução ao Flex Box
-****
 
 Foi projetado como um modelo de layout unidimensional e como um método que pode oferecer distribuição de espaço entre itens em uma interface e recursos de alinhamento.
 
@@ -64,9 +61,7 @@ Propriedades relacionadas:
 - **order**: Ordem e distribuição das listagem dos itens;
 - **align-self**: Alinhamento de um item especifico dentro de um container.
   
-****
 ## Fundamentos do Flexbox (Parte 1)
-****
 
 ### Display: flex
 Define o elemento como um flex container, tornando os seus filhos flex-itens.
@@ -231,9 +226,7 @@ Alinha as linhas do container em relação ao eixo vertical. A propriedade só f
 
 ```
 
-****
 ## Fundamentos do Flexbox (Parte 2)
-****
 
 ### Flex-grow
 Define a habilidade de um flex item crescer. Por padrão o valor é zero, assim os flex itens ocupam um tamanho máximo relacionado o conteúdo interno deles ou ao width definido. Ao definir 1 para todos os Flex Itens, eles tentarão ter a mesma largura e vão ocupar 100% do container. Digo tentarão pois caso um elemento possua um conteúdo muito largo, ele irá respeitar o mesmo. Se você tiver uma linha com quatro itens, onde três são flex-grow: 1 e um flex-grow: 2, o flex-grow: 2 tentará ocupar 2 vezes mais espaço extra do que os outros elementos.

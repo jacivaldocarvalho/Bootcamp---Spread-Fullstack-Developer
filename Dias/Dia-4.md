@@ -1,7 +1,4 @@
-****
 # Introdução a criação de websites com HTML5 e CSS3
-****
-
 ## Conteúdo
 ****
 - [Introdução a criação de websites com HTML5 e CSS3](#introdução-a-criação-de-websites-com-html5-e-css3)
@@ -30,9 +27,8 @@
     - [Border](#border)
   - [Estilizando textos](#estilizando-textos)
 
-****
+
 ## Elemento e Estrutura básica
-****
 
 Em 1991 Tim Berners-Lee criou essa linguagem de marcação para melhorar a comunicação entre ele e seus colegas de trabalho no CERN, desde então já surgiram 5 versões e o HTML se tornou a base da web.
 
@@ -78,9 +74,8 @@ E dentro da tag body colocamos todo o conteúdo visível ao usuário: textos, im
     </body>
 </html>
 ```
-****
+
 ## Entendendo o que é semântica
-****
 
 Durante muitos anos o elemento padrão no HTML era a div, construíamos nosso conteúdo todo baseado nela, e assim nascia a sopa de divs.
 
@@ -145,9 +140,9 @@ Eles não foram criados na versão 5 do HTML e nem são específicos para semân
     </body>
 </html>
 ```
-****
+
 ## Usando textos e links HTML
-****
+
 A criação do HTML foi motivada pela necessidade de compartilhar textos e documentos, e mesmo depois de quase 30 anos, com toda a evolução da web, isso ainda representa uma boa parte do conteúdo da web.
 
 Já falamos anteriormente sobre os elementos h1-h6 e, eles são essenciais para nos indicar visualmente a importância e localização de seções de texto na página, mas para textos maiores e mais densos usamos o elemento p.
@@ -190,9 +185,8 @@ O target neste momento vai servir para nos ajudar a abrir nossos links em outra 
     </body>
 
 ```
-****
+
 ## Como inserir imagens
-****
 
 A web também é feita de imagens e para representá-las temos o elemento < img>, ele é um daqueles elementos sem tag de fechamento. O elemento img é bem simples, contendo apenas 2 atributos próprios, o src e o alt. O src é obrigatório e guarda o caminho para a imagem que você quer mostrar na página. O alt não é obrigatório mas é altamente recomendado por melhorar a acessibilidade, ele mostra a descrição da imagem caso ela não carregue e leitores de tela usam esse atributo para descrever a imagem para o usuário saber o que ela significa.
 
@@ -227,9 +221,7 @@ A web também é feita de imagens e para representá-las temos o elemento < img>
 
 Dica para remover dados desnecessários de uma imagem use o site [Tiny Png].
 
-****
 ## Como organizar listas
-****
 
 Os últimos elementos que veremos neste módulo são os relacionados a listas: < ul>, < ol> e < li>. Listas servem para agrupar uma coleção de itens, como uma lista de ingredientes ou, como será no nosso caso, uma lista com contatos. O elemento ul cria uma lista não ordenada, onde a ordem dos elementos não é importante, e é representada com pontos, círculos ou quadrados. O < ol> serve para criar lista ordenadas, nessas a ordem importa, portanto elas são representadas com números, algarismos romanos ou letras. E o elemento li é um item dentro de uma dessas listas. Um < li> pode conter vários tipos de conteúdos, como parágrafos, imagens e até outras listas.
 
@@ -249,9 +241,9 @@ Os últimos elementos que veremos neste módulo são os relacionados a listas: <
             </ul>
         </footer>
 ```
-****
+
 ## Introdução e conceitos básicos do CSS3
-****
+
 ### Definição e Seletores
 Após a criação do HTML a necessidade de formatar as páginas ficou evidente, assim, em 1996, foi criada a linguagem de estilo que conhecemos por CSS.
 
@@ -267,9 +259,9 @@ E há um último detalhe nesse exemplo: a pseudo-classe. Elementos HTML sofrem a
 
 O a:hover do exemplo significa que a âncora também terá essa aparência quando o usuário passar o mouse por cima de um hyperlink.
 
-****
+
 ## ID x Classe
-****
+
 No exemplo anterior criamos uma regra que altera um elemento HTML diretamente, mas isso significa que todos os elementos < a> ficarão com aquela aparência, e normalmente temos sites mais complexos que precisam de várias regras diferentes para elementos iguais.
 
 Para ficar mais tangível vamos relembrar um pouco o site que começamos a fazer no módulo passado, ele tinha vários elementos header, mas não vamos querer que o header principal tenha a mesma formatação que o header de uma postagem, é aí que entram os IDs e Classes.
@@ -282,9 +274,8 @@ O seletor que vimos no primeiro exemplo é um seletor de tipo, pois ele represen
 
 E a diferença mais importante entre eles é a forma como devem ser usados: o ID só pode ser usado uma vez em uma página HTML enquanto a classe não tem restrições.
 
-****
 ## Box-model
-****
+
 Quando estamos criando o layout de um site o navegador representa cada elemento HTML  como uma caixa retangular, isso é o box-model. E com CSS nós alteramos a aparência dessa caixa (largura, altura, cor de fundo, etc.). Essa caixa é composta por 4 áreas: o conteúdo, o padding, a borda e a margem.
 
 - As margens (margin) são espaçamentos entre elementos;
@@ -296,9 +287,9 @@ Quando estamos criando o layout de um site o navegador representa cada elemento 
  		<img src="https://miro.medium.com/max/816/1*sKnLrT1TtqWDZg7GWoBCow.png?raw=true" alt="Box-Model CSS" width="50%" height="50%" />
   </p>
 
-****
+
 ## Estilizando elementos
-****
+
 Agora que entendemos o box-model podemos focar em deixar nosso site mais bonito, então vamos repassar pelas propriedades já citadas:
 
 ### Padding e Margin
@@ -347,9 +338,8 @@ E depois disso podemos juntar os lados com os aspectos de uma borda e criar uma 
 
 Colocando apenas um valor mudamos todos os cantos do elemento, mas seguindo aquela mesma ordem que vimos no padding e margin - topo, direita, inferior e esquerda -  conseguimos alterar cada canto separadamente.
 
-****
 ## Estilizando textos
-****
+
 Já sabemos que podemos mudar cor e tamanho de algumas fontes, e agora vamos nos aprofundar nisso.
 
 - **font-family**: Com o font-family podemos alterar a fonte dos nossos textos, como uma fonte da internet ou uma que esteja instalada no nosso computador, mas vamos nos ater às fontes seguras, chamadas de web safe fonts. Essas fontes são chamadas assim pois são encontradas em quases todos os sistemas e podem ser usadas sem preocupação.]
