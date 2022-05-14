@@ -33,7 +33,7 @@ Repositório com notas sobre o meu progresso no bootcamp da Spread. Curso em Ful
 - 📚 [✔️] ♾️ 4 > [Funções](Dias/Dia-10.md)
 - 📚 [✔️] ♾️ 5 > [Coleções](Dias/Dia-11.md)
 - 📚 [✔️] ♾️ 6 > [Map, Filter e Reduce](Dias/Dia-12.md)
-- 📚 [💪] ♾️ 6 > [--](Dias/Dia-13.md)
+- 📚 [💪] ♾️ 7 > [Debugging e Error Handling](Dias/Dia-13.md)
 
 ****
 ### Projetos
