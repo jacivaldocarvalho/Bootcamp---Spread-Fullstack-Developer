@@ -3,18 +3,18 @@
 ## Conteúdo
 - [Debugging e Error Handling](#debugging-e-error-handling)
   - [Conteúdo](#conteúdo)
-  - [Tipos de Erros](#tipos-de-erros)
-    - [ECMAScript Error](#ecmascript-error)
-    - [DOMException](#domexception)
-  - [Tratando Erros](#tratando-erros)
-    - [Throw](#throw)
-    - [Try/Catch](#trycatch)
-    - [Finally](#finally)
-  - [Objeto error](#objeto-error)
+    - [Tipos de Erros](#tipos-de-erros)
+      - [ECMAScript Error](#ecmascript-error)
+      - [DOMException](#domexception)
+    - [Tratando Erros](#tratando-erros)
+      - [Throw](#throw)
+      - [Try/Catch](#trycatch)
+      - [Finally](#finally)
+    - [Objeto error](#objeto-error)
 
-## Tipos de Erros
+### Tipos de Erros
 
-### ECMAScript Error
+#### ECMAScript Error
 Erros que ocorrem em tempo de execução. Exemplo: falta de ponto e vírgula (;).
 
 Composto por:
@@ -24,17 +24,17 @@ Composto por:
 - Call Stack.
 
 
-### DOMException
+#### DOMException
 Erros relacionados ao Document Object Model (DOM). O DOMExceptioninterface representa um evento anormal (chamada de exceção ) que ocorre como resultado de chamar um método ou acessar uma propriedade de uma API web. É assim que as condições de erro são descritas nas APIs da web.
 
-## Tratando Erros
+### Tratando Erros
 
 - A instrução try define um bloco de código para ser executado.
 - A instrução catch define um bloco de código para lidar com qualquer erro.
 - A instrução finally define um bloco de código para ser executado independentemente do resultado.
 - A instrução throw define um erro personalizado.
 
-### Throw
+#### Throw
 Tecnicamente, você pode lançar uma exceção. A exceção pode ser um JavaScript String, Number, Booleanou ou Object:
 
 ```javascript
@@ -42,7 +42,7 @@ throw "Too big";    // throw para string.
 throw 500;          // throw para number.
 ```
 
-### Try/Catch
+#### Try/Catch
 A instrução try permite que você defina um bloco de código para ser testado quanto a erros enquanto está sendo executado. A instrução catch permite definir um bloco de código a ser executado, caso ocorra um erro no bloco try.
 
 ```javascript
@@ -54,7 +54,7 @@ catch(err) {
 }
 ```
 
-### Finally
+#### Finally
 A instrução finally permite executar o código, depois do try e catch, independentemente do resultado.
 
 ```javascript
@@ -69,7 +69,7 @@ finally{
 }
 ```
 
-## Objeto error
+### Objeto error
 JavaScript tem um objeto de error integrado que fornece informações de erro quando ocorre um erro. O objeto de error fornece duas propriedades úteis: nome e mensagem.
 
 ```javascript

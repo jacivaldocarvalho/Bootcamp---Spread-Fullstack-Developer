@@ -2,19 +2,19 @@
 ## Conteúdo
 - [Map, Filter e Reduce](#map-filter-e-reduce)
   - [Conteúdo](#conteúdo)
-  - [Map](#map)
-    - [sintaxe](#sintaxe)
-  - [ForEach](#foreach)
-  - [Filter](#filter)
-    - [Sintaxe](#sintaxe-1)
-  - [Reduce](#reduce)
-    - [Sintaxe](#sintaxe-2)
+    - [Map](#map)
+      - [sintaxe](#sintaxe)
+    - [ForEach](#foreach)
+    - [Filter](#filter)
+      - [Sintaxe](#sintaxe-1)
+    - [Reduce](#reduce)
+      - [Sintaxe](#sintaxe-2)
 
 
-## Map
+### Map
 O método map() cria uma nova matriz preenchida com os resultados da chamada de uma função fornecida em cada elemento na matriz de chamada.
 
-### sintaxe
+#### sintaxe
 
 ```javascript
 arr.map(callback, thisArg)
@@ -35,7 +35,7 @@ console.log(newArr);
 // resultado: Array [2, 8, 18, 32]
 ```
 
-## ForEach
+### ForEach
 Parecido com o map, porém não retorna um novo array.
 
 Exemplo map vs forEach:
@@ -56,10 +56,10 @@ arr.forEach(x => x*2);
 
 Diferança com o map, é no valor retornado que é indefinido por não criar um novo array, então, deve-se considerar ou não o uso de um array auxiliar.
 
-## Filter
+### Filter
 Filtra item no array. Cria um novo array, não modififcando o array original.
 
-### Sintaxe
+#### Sintaxe
 ```javascript
 array.filter(callback, thisArg) 
 ```
@@ -74,10 +74,10 @@ const frutas = ['maça fuji', 'maça verde', 'laranja', 'abacaxi'];
 frutas.filter((fruta) => fruta.includes('maça'));
 ```
 
-## Reduce
+### Reduce
 Executa uma função em todos os elementos do array, retornando um valor único.
 
-### Sintaxe
+#### Sintaxe
 
 ```javascript
 array.reduce(callbackFn, initialValue);

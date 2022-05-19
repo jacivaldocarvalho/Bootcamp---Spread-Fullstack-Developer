@@ -3,31 +3,31 @@
 
 - [Funções](#funções)
   - [Conteúdo](#conteúdo)
-  - [Tipos de funções](#tipos-de-funções)
-    - [Estrutura](#estrutura)
-    - [Função anônima](#função-anônima)
-    - [Função autoinvocável](#função-autoinvocável)
-    - [Callbacks](#callbacks)
-  - [Parâmetros](#parâmetros)
-    - [Valores padrão e Objeto "arguments"](#valores-padrão-e-objeto-arguments)
+    - [Tipos de funções](#tipos-de-funções)
+      - [Estrutura](#estrutura)
+      - [Função anônima](#função-anônima)
+      - [Função autoinvocável](#função-autoinvocável)
+      - [Callbacks](#callbacks)
+    - [Parâmetros](#parâmetros)
+      - [Valores padrão e Objeto "arguments"](#valores-padrão-e-objeto-arguments)
     - [Arrays e Objetos](#arrays-e-objetos)
       - [Array:](#array)
       - [Objetos](#objetos)
-  - [Loops](#loops)
-    - [if/else](#ifelse)
-    - [Switch/case](#switchcase)
-  - [For e While](#for-e-while)
-    - [For](#for)
-  - [While](#while)
-  - [This](#this)
-    - [Manipulando seu valor](#manipulando-seu-valor)
-      - [Call](#call)
-      - [Apply](#apply)
-  - [Arrow functions](#arrow-functions)
-    - [Outras restrições](#outras-restrições)
+    - [Condicionais](#condicionais)
+      - [if/else](#ifelse)
+      - [Switch/case](#switchcase)
+    - [Loops](#loops)
+      - [For](#for)
+      - [While](#while)
+    - [This](#this)
+      - [Manipulando seu valor](#manipulando-seu-valor)
+        - [Call](#call)
+        - [Apply](#apply)
+    - [Arrow functions](#arrow-functions)
+      - [Outras restrições](#outras-restrições)
 
-## Tipos de funções
-### Estrutura
+### Tipos de funções
+#### Estrutura
 Variáveis dentro de uma função apenas podem ser utilizadas dentro dela.
 
 ```javascript
@@ -45,7 +45,7 @@ function nome(parametros){
 }
 ```
 
-### Função anônima
+#### Função anônima
 Funções que representam expressões. Uma variáel pode armazenar uma função.
 
 ```javascript
@@ -56,7 +56,7 @@ const soma = function (a,b){
 soma(1,3) // 4
 ```
 
-### Função autoinvocável
+#### Função autoinvocável
 
 Uma função anônima entre parênteses, seguida por outro par de parênteses, que representa sua chamada.
 
@@ -90,7 +90,7 @@ const soma= (
 console.log(soma);
 ```
 
-### Callbacks
+#### Callbacks
 
 Uma função passada como argumento para outra. Utilizando callbacks, podemos ter maior controle da ordem de chamadas.
 
@@ -113,9 +113,9 @@ console.log(resultSub);
 console.log(resultSoma);
 ```
 
-## Parâmetros
+### Parâmetros
 
-### Valores padrão e Objeto "arguments"
+#### Valores padrão e Objeto "arguments"
 
 Pós - ES2015
 ```javascript
@@ -204,9 +204,9 @@ getFullName(user);// Juninho Carvalho
 
 ```
 
-## Loops
+### Condicionais
 
-### if/else
+#### if/else
 Exemplos:
 ```javascript
 function numeroPositivo(num){
@@ -250,7 +250,7 @@ function numeroPositivo(num){
 }
 ```
 
-### Switch/case
+#### Switch/case
 
 - Equivale a uma comparação de tipo e valor (===);
 - Sempre precisa de um valor "default";
@@ -274,8 +274,8 @@ function getAnimal(id){
 getAnimal(1); // "cão"
 getAnimal(4); // "peixe"
 ```
-## For e While
-### For
+### Loops
+#### For
 Loop dentro de elemntos iteráveis (arrays, strings).
 
 ```javascript
@@ -373,7 +373,7 @@ logNumeros(palavra)
 //2
 ```
 
-## While
+#### While
 Executa instruções até que a condição se torne falsa.
 
 Exemplo com strings.
@@ -433,7 +433,7 @@ exemploDoWhile()
 //6
 ```
 
-## This
+### This
 
 A palavra reservada **this** é uma referência de contexto. No exemplo, this refere-se ao objeto pessoa.
 
@@ -465,8 +465,8 @@ Seu valor pode mudar de acordo com o lugar no código onde foi chamado.
 |        função        |             Objeto global            |
 |        Evento        |     Elemento que recebeu o evento    |
 
-### Manipulando seu valor
-#### Call
+#### Manipulando seu valor
+##### Call
 
 ```javascript
 const pessoa = {
@@ -506,7 +506,7 @@ soma.call(myObj, 1, 5);
 // Saida
 // 12
 ```
-#### Apply
+##### Apply
 Já usando a função Apply, passamos um array como parâmetro.
 
 ```javascript
@@ -538,7 +538,7 @@ bruno();
 // Bruno
 ```
 
-## Arrow functions
+### Arrow functions
 
 Uma expressão de função de seta é uma alternativa compacta a uma expressão de função tradicional , mas é limitada e não pode ser usada em todas as situações.
 
@@ -571,7 +571,7 @@ soma(4);
 ```
 Obs. Arrow function **não** faz hoisting!
 
-### Outras restrições
+#### Outras restrições
 Existem diferenças entre as funções de seta e as funções tradicionais , bem como algumas limitações:
 
 - As funções de seta não têm suas próprias ligações para this, arguments ou super, e não devem ser usadas como métodos;

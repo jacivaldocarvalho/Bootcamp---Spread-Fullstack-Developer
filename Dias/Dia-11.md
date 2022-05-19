@@ -2,14 +2,14 @@
 ## Conteúdo
 - [Coleções Chaveadas](#coleções-chaveadas)
   - [Conteúdo](#conteúdo)
-  - [Map](#map)
-    - [Características](#características)
-    - [Map vs Objeto](#map-vs-objeto)
-  - [Set](#set)
-    - [Set vs Array](#set-vs-array)
+    - [Map](#map)
+      - [Características](#características)
+      - [Map vs Objeto](#map-vs-objeto)
+    - [Set](#set)
+      - [Set vs Array](#set-vs-array)
 
-## Map
-### Características
+### Map
+#### Características
 - Uma coleção de arrays no formato [chave, valor];
 - Pode ser iterado por um loop, e for...of.
 
@@ -29,14 +29,14 @@ myMap.get('maça')
 //undefined
 ```
 
-### Map vs Objeto
+#### Map vs Objeto
 - Maps podem ter chaves de qualquer tipo;
 - Maps possuem a propriedade length;
 - Maps são mais fáceis de iterar;
 - Utilizado quando o valor das chaves é desconhecido;
 - Os valores tem o mesmo tipo.
 
-## Set
+### Set
 
 Sets são estruturas que armazenam apenas valores únicos.
 
@@ -55,7 +55,7 @@ mySet.has(3);
 mySet.delete(5)
 ```
 
-### Set vs Array
+#### Set vs Array
 
 - Possuí valores únicos;
 - Em vez da propriedade length, consulta-se o número de registros pela propriedade size;
