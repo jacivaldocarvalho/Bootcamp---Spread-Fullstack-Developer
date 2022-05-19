@@ -6,7 +6,7 @@
 
 Repositório com notas, projetos e código desenvolvidos no bootcamp da Spread. Curso em Fullstack Developer. 📚
 
-## Progresso 📈
+## Progresso 📈☕
 
 ### Módulo I - Abertura
 
@@ -28,8 +28,14 @@ Repositório com notas, projetos e código desenvolvidos no bootcamp da Spread. 
 - 📚 [✔️] ♾️ 4 > [Funções](Dias/Dia-10.md)
 - 📚 [✔️] ♾️ 5 > [Coleções](Dias/Dia-11.md)
 - 📚 [✔️] ♾️ 6 > [Map, Filter e Reduce](Dias/Dia-12.md)
-- 📚 [💪] ♾️ 7 > [Debugging e Error Handling](Dias/Dia-13.md)
+- 📚 [✔️] ♾️ 7 > [Debugging e Error Handling](Dias/Dia-13.md)
+- 📚 [💪] ♾️ 7 > [Javascript Assíncrono](Dias/Dia-14.md)
+
 
 ### Projetos
 
  - 🗃️[Projetos realizados](https://github.com/jacivaldocarvalho/Bootcamp---Spread-Fullstack-Developer/tree/main/Dias/projetos)
+
+### Códigos
+
+  - 👨‍💻[Códigos](https://github.com/jacivaldocarvalho/Bootcamp---Spread-Fullstack-Developer/tree/main/Dias/codigos/javascript)
