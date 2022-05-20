@@ -30,7 +30,8 @@ Repositório com notas, projetos e código desenvolvidos no bootcamp da Spread. 
 - 📚 [✔️] ♾️ 6 > [Map, Filter e Reduce](Dias/Dia-12.md)
 - 📚 [✔️] ♾️ 7 > [Debugging e Error Handling](Dias/Dia-13.md)
 - 📚 [✔️] ♾️ 8 > [Javascript Assíncrono](Dias/Dia-14.md)
-- 📚 [💪] ♾️ 9 > [Orientação a objetos](Dias/Dia-15.md)
+- 📚 [✔️] ♾️ 9 > [Orientação a objetos](Dias/Dia-15.md)
+- 📚 [💪] ♾️ 10 > [Trabalhando com Módulos em JavaScript](Dias/Dia-16.md)
 
 
 ### Projetos
