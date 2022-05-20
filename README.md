@@ -31,7 +31,9 @@ Repositório com notas, projetos e código desenvolvidos no bootcamp da Spread. 
 - 📚 [✔️] ♾️ 7 > [Debugging e Error Handling](Dias/Dia-13.md)
 - 📚 [✔️] ♾️ 8 > [Javascript Assíncrono](Dias/Dia-14.md)
 - 📚 [✔️] ♾️ 9 > [Orientação a objetos](Dias/Dia-15.md)
-- 📚 [💪] ♾️ 10 > [Trabalhando com Módulos em JavaScript](Dias/Dia-16.md)
+- 📚 [✔️] ♾️ 10 > [Trabalhando com Módulos em JavaScript](Dias/Dia-16.md)
+- 📚 [✔️] ♾️ 11 > [Trabalhando com a DOM com JavaScript](Dias/Dia-17.md)
+- 📚 [💪] ♾️ 11 > [Introdução ao TypeScript: Classes, Tipos e Interfaces](Dias/Dia-18.md)
 
 
 ### Projetos
