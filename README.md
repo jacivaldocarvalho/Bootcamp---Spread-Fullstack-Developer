@@ -39,7 +39,9 @@ Repositório com notas, projetos e código desenvolvidos no bootcamp da Spread. 
 ### Módulo IV - ReactJS
 - 📚 [✔️] ♾️ 14 > [Introdução ao ReactJS](Dias/Dia-19.md)
 - 📚 [✔️] ♾️ 15 > [Introdução aos Reacts Hooks](Dias/Dia-20.md)
-- 📚 [💪] ♾️ 15 > [Trabalhando com States e useEffects no React JS](Dias/Dia-21.md)
+- 📚 [✔️] ♾️ 16 > [Trabalhando com States e useEffects no React JS](Dias/Dia-21.md)
+- 📚 [💪] ♾️ 17 > [Desenvolvimento de aplicações para internet com ReactJS](Dias/Dia-22.md)
+
 
 
 ### Projetos
