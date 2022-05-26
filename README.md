@@ -34,10 +34,12 @@ Repositório com notas, projetos e código desenvolvidos no bootcamp da Spread. 
 - 📚 [✔️] ♾️ 10 > [Trabalhando com Módulos em JavaScript](Dias/Dia-16.md)
 - 📚 [✔️] ♾️ 11 > [Trabalhando com a DOM com JavaScript](Dias/Dia-17.md)
 - 📚 [✔️] ♾️ 12 > [Introdução ao TypeScript: Classes, Tipos e Interfaces](Dias/Dia-18.md)
-- 📚 [✔️] ♾️ 13 > [Criar um Sistema de Estacionamento](https://github.com/jacivaldocarvalho/meu-estacionamento.github.io)
+- 📚 [✔️] ♾️ 13 > [Criando um Sistema de Estacionamento](https://github.com/jacivaldocarvalho/meu-estacionamento.github.io)
 
 ### Módulo IV - ReactJS
-- 📚 [💪] ♾️ 11 > [Introdução ao ReactJS](Dias/Dia-19.md)
+- 📚 [✔️] ♾️ 14 > [Introdução ao ReactJS](Dias/Dia-19.md)
+- 📚 [✔️] ♾️ 15 > [Introdução aos Reacts Hooks](Dias/Dia-20.md)
+- 📚 [💪] ♾️ 15 > [Trabalhando com States e useEffects no React JS](Dias/Dia-21.md)
 
 
 ### Projetos
